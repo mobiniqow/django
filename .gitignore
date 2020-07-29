@@ -113,3 +113,4 @@ media/
 !**/migrations/__init__.py
 venv
 db.sqlite3
+files/
